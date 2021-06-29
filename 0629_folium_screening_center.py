@@ -46,6 +46,6 @@ plugins.MarkerCluster(geocode, popups = name).add_to(loc)
 
 loc
 
-loc.save('screening center')
+loc.save('screening center') 
 loc
 
