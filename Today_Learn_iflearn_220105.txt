@@ -1,6 +1,8 @@
 오늘의 내용
-- FinanceDataReader 란?
-- FinanceDataReader를 통한 상장종목 전체 불러오기.
+- 1.FinanceDataReader 란?
+- 1.FinanceDataReader를 통한 상장종목 전체 불러오기.
+- 2.KRX 전체 종목분석
 
 오늘의 목표
 - 1장 실습
+- 2장 실습(3/14)
