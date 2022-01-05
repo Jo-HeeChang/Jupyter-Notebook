@@ -1,0 +1,6 @@
+오늘의 내용
+- FinanceDataReader 란?
+- FinanceDataReader를 통한 상장종목 전체 불러오기.
+
+오늘의 목표
+- 1장 실습
