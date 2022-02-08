@@ -1,6 +1,6 @@
 web Crawling
-Cruella 리뷰 10페이지 가져오기
+Cruella 리뷰 10페이지 가져오기.
 
 WordCloud
 
-Creulla 리뷰 10페이지에 관한 내용으로 활용
+Creulla 리뷰 10페이지에 관한 내용으로 활용.
